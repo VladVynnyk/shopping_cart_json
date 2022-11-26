@@ -83,7 +83,7 @@ let shopProducts = (products) => {
 }
 
 
- let url = "http://127.0.0.1:5500/shopping_cart_json/shopping_cart/items.json"
+ let url = "https://VladVynnyk.github.io/shopping_cart_json/items.json"
     // fetch(url).then(
     //     data => {return data.json()}
     // )
