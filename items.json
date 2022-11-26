@@ -1,0 +1,8 @@
+{
+"items": [
+    {"name":"Пралка 1", "price":4000, "img":"./img/18115433.jpg"},
+    {"name":"SONY", "price":5000, "img":"./img/276840966.jpg"}, 
+    {"name":"Philips", "price":7400, "img":"./img/УТ000017292-1.jpg"}, 
+    {"name":"Samsung", "price":10200, "img":"./img/img_0_139_3518_0_Small.jpg"}
+    ]
+}
